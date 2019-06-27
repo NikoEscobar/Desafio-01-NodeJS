@@ -1,0 +1,17 @@
+{
+  "name": "Desafio-01-NodeJS",
+  "version": "1.0.0",
+  "description": "Teste pratico com o intuito de validar os conhecimentos do entrevistado.",
+  "main": "index.js",
+  "author": "Níkolas Escobar",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
